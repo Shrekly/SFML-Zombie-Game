@@ -1,0 +1,253 @@
+﻿  main.cpp
+  SFML_2DCamera.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_2DCamera.cpp(5,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_2DCamera.cpp(5,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_AnimatedSpriteObject.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_AnimatedSpriteObject.cpp(86,108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_AnimatedSpriteObject.cpp(86,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_Application.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_Application.cpp(27,59): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_Application.cpp(27,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_Application.cpp(96,62): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_Application.cpp(96,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_BulletSpriteObject.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_BulletSpriteObject.cpp(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_BulletSpriteObject.cpp(62,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_BulletSpriteObject.cpp(62,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML_GameMenu.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(21,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(21,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(28,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(29,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(40,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(40,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(143,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameMenu.cpp(144,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_GameWorld.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorld.cpp(42,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorld.cpp(42,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorld.cpp(43,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorld.cpp(43,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorld.cpp(148,65): warning C4390: ';': empty controlled statement found; is this the intent?
+  SFML_GameWorldLayer.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(16,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(17,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(17,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(18,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(31,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(32,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(33,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(34,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(36,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(36,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(37,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(37,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(38,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(38,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(39,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_GameWorldLayer.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_NPCSpriteObject.cpp
+  SFML_PlayableSpriteObject.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_PlayableSpriteObject.cpp(47,25): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_PlayableSpriteObject.cpp(48,25): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_PlayableSpriteObject.cpp(52,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_PlayableSpriteObject.cpp(469,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SFML_SpriteAnimation.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteAnimation.cpp(40,58): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteAnimation.cpp(87,27): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteAnimation.cpp(98,27): warning C4018: '>=': signed/unsigned mismatch
+  SFML_SpriteObject.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteObject.cpp(32,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteObject.cpp(32,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteObject.cpp(88,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteObject.cpp(88,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_TitleScreen.cpp
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_TitleScreen.cpp(18,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_TitleScreen.cpp(18,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\CSMWHARD\source\repos\TEST6\TEST6\SFML_SpriteObject.cpp(96): warning C4715: 'SFML_SpriteObject::setDefaultTexture': not all control paths return a value
+  TEST6.vcxproj -> C:\Users\CSMWHARD\source\repos\TEST6\Debug\TEST6.exe

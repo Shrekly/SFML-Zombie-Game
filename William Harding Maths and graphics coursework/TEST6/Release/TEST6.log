@@ -1,0 +1,259 @@
+﻿  main.cpp
+  SFML_2DCamera.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_2DCamera.cpp(5,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_2DCamera.cpp(5,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_AnimatedSpriteObject.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_AnimatedSpriteObject.cpp(87,108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_AnimatedSpriteObject.cpp(87,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_Application.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(31,59): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(31,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(34,59): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(34,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(151,62): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_Application.cpp(151,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_BulletSpriteObject.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_BulletSpriteObject.cpp(26,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_BulletSpriteObject.cpp(62,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_BulletSpriteObject.cpp(62,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML_GameMenu.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(21,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(21,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(28,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(29,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(40,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(40,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(143,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameMenu.cpp(144,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_GameWorld.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorld.cpp(47,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorld.cpp(47,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorld.cpp(48,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorld.cpp(48,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorld.cpp(220,65): warning C4390: ';': empty controlled statement found; is this the intent?
+  SFML_GameWorldLayer.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(16,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(17,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(17,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(18,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(31,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(32,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(33,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(34,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(36,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(36,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(37,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(37,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(38,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(38,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(39,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_GameWorldLayer.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_NPCSpriteObject.cpp
+  SFML_PlayableSpriteObject.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_PlayableSpriteObject.cpp(47,25): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_PlayableSpriteObject.cpp(48,25): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_PlayableSpriteObject.cpp(52,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_PlayableSpriteObject.cpp(469,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SFML_SpriteAnimation.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteAnimation.cpp(40,58): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteAnimation.cpp(87,27): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteAnimation.cpp(98,27): warning C4018: '>=': signed/unsigned mismatch
+  SFML_SpriteObject.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteObject.cpp(32,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteObject.cpp(32,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteObject.cpp(88,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteObject.cpp(88,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_TitleScreen.cpp
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_TitleScreen.cpp(18,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_TitleScreen.cpp(18,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating code
+C:\Users\Will\Downloads\William Harding Maths and graphics coursework\TEST6\SFML_SpriteObject.cpp(96): warning C4715: 'SFML_SpriteObject::setDefaultTexture': not all control paths return a value
+  791 of 814 functions (97.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TEST6.vcxproj -> C:\Users\Will\Downloads\William Harding Maths and graphics coursework\Release\TEST6.exe
